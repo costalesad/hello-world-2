@@ -1,3 +1,6 @@
 # hello-world
-
-My first creating respitory file!!!
+public class HelloWorld{
+  public static void main (String[] args){
+    Systenm.out.println("Hello World");
+    }
+}
